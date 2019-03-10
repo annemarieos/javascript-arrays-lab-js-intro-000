@@ -20,3 +20,9 @@ function destructivelyRemoveFirstKitten(){
   kittens.shift("Milo")
   return kittens
 }
+
+function appendKitten() {
+  var kittens = var kitten
+}
+
+
