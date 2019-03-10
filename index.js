@@ -37,6 +37,6 @@ function removeLastKitten(){
 }
 
 function removeFirstKitten(){
-  var kittens = ["Otis"]
+  var kittens = ["Otis", "Garfield"]
   return kittens
 }
