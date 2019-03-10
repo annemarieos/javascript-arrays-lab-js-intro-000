@@ -32,6 +32,6 @@ function prependKitten(){
 }
 
 function removeLastKitten(){
-  var kittens = kittens.concat("Garfield")
+  var kittens = kittens.pop("Garfield")
   return kittens
 }
