@@ -17,6 +17,6 @@ function destructivelyRemoveLastKitten(){
 }
 
 function destructivelyRemoveFirstKitten(){
-  kittens.pop("Garfield")
+  kittens.pop("Otis")
   return kittens
 }
